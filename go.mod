@@ -1,4 +1,4 @@
-module socks5
+module go_socks5
 
 go 1.14
 
